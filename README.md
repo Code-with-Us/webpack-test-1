@@ -1,7 +1,5 @@
 # README
 
-
-
 NOTE: To get the most out of this short tutorial, please make sure that you are familiar with the command line and with using NPM.
 
 In this tutorial we're going to talk about how to begin using Webpack. Webpack is a "bundler." A bundler  is a piece of softare that takes the assets that make up a site or application and "bundles" them together into one or just a few files, performing a series of optimizations in the process. The assets in question are often JavaScirpt files, but can also include HTML, CSS, images, and other assets. Webpack is the most popular bundler out there right now, although there are many others, e.g. Parcel, Rollup, Browserify, etc.
